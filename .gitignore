@@ -1,0 +1,5 @@
+disaster/core/cred.json
+disaster/core/client_secret.json
+disaster/db.sqlite3
+venv/
+.idea
